@@ -5,19 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d94fdd-6099-4aa5-9527-087f3956124e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/io/javabrains/movieinfoservice/model/MovieSummary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/MovieCatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/MovieCatalogServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/model/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/model/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/model/UserRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/model/UserRating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/resource/MovieCatalogResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/resource/MovieCatalogResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/java/io/javabrains/movieinfoservice/MovieInfoServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/io/javabrains/movieinfoservice/MovieInfoServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/java/io/javabrains/movieinfoservice/model/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/io/javabrains/movieinfoservice/model/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/java/io/javabrains/movieinfoservice/resources/MovieResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/io/javabrains/movieinfoservice/resources/MovieResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratings-data-service/src/main/java/io/javabrains/ratingsdataservice/model/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/ratings-data-service/src/main/java/io/javabrains/ratingsdataservice/model/Rating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratings-data-service/src/main/java/io/javabrains/ratingsdataservice/model/UserRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/ratings-data-service/src/main/java/io/javabrains/ratingsdataservice/model/UserRating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratings-data-service/src/main/java/io/javabrains/ratingsdataservice/resources/RatingsResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/ratings-data-service/src/main/java/io/javabrains/ratingsdataservice/resources/RatingsResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratings-data-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ratings-data-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="106" />
@@ -74,17 +106,31 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "D:/My_Workspace/Springboot-Microservices",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "D:/My_Workspace/Springboot-Microservices/discovery-server",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RatingsDataServiceApplication">
+    <configuration name="DiscoveryServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.discoveryserver.DiscoveryServerApplication" />
+      <module name="discovery-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.javabrains.discoveryserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MovieCatalogServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.javabrains.moviecatalogservice.MovieCatalogServiceApplication" />
       <module name="movie-catalog-service" />
@@ -98,9 +144,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MovieInfoServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.movieinfoservice.MovieInfoServiceApplication" />
+      <module name="movie-info-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.javabrains.movieinfoservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RatingsDataServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.ratingsdataservice.RatingsDataServiceApplication" />
+      <module name="ratings-data-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.javabrains.ratingsdataservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MovieCatalogServiceApplication" />
+        <item itemvalue="Application.RatingsDataServiceApplication" />
+        <item itemvalue="Application.MovieInfoServiceApplication" />
+        <item itemvalue="Application.DiscoveryServerApplication" />
       </list>
     </recent_temporary>
   </component>

@@ -13,18 +13,14 @@ import java.util.List;
 @RequestMapping("/ratingsdata")
 public class RatingsResource {
 
-    @RequestMapping("/{movieId}")
+    @RequestMapping("movies/{movieId}")
     public Rating getRating(@PathVariable("movieId") String movieId) {
         return new Rating(movieId, 4);
     }
-    @RequestMapping("/users/{userId}")
+    @RequestMapping("/user/{userId}")
     public UserRating getUserRating(@PathVariable("userId") String userId){
-        List<Rating> ratings = Arrays.asList(
-                new Rating("1234", 4),
-                new Rating("5678", 3)
-        );
         UserRating userRating = new UserRating();
-        userRating.setUserRating(ratings);
+        userRating.initData(userId);
         return userRating;
     }
 }
